@@ -1,0 +1,1 @@
+//all ques using both functions done in class as well as given for homework

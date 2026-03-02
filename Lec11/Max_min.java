@@ -1,0 +1,1 @@
+// find maximum minimm in an array as an homework
